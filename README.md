@@ -26,6 +26,9 @@ This is a simple visualization project made using javascript. This include follo
 - Excellent knowledge of JavaScript.
 - HTML5/CSS3.
 
+## Credit :
+[Crio.do](https://www.crio.do/) 
+
 ## Contributing 💚
 Contributions, issues and features requests are welcome!
 
